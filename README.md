@@ -1,5 +1,6 @@
 # Sitema Biblioteca
-
+## Autor: Gustavo K. K. Witt
+## Licença: MIT
 Sistema desktop desenvolvido em TypeScript para biblioteca.
 
 ## Objetivo
