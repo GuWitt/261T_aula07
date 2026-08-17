@@ -1,9 +1,15 @@
 # HISTORICO DE ALTERAÇÕES
 
+## V1.1.1
+Data: 17 de agosto de 2026
+## Adicionado:
+
+SRC e seu programa com TypeScript
+
 ## V1.0.1
 Data: 17 de agosto de 2026
 
-## Alterado
+## Alterado:
 
 README.md
 
