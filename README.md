@@ -1,4 +1,4 @@
-# Sitema Biblioteca
+# Sitema de Biblioteca
 ## Autor: Gustavo K. K. Witt
 ## Licença: MIT
 Sistema desktop desenvolvido em TypeScript para biblioteca.
@@ -40,4 +40,4 @@ VsCode
 Clone o repositório.
 
 ```bash
-git clone URL_DO_REPOSITORIO
+git clone https://github.com/GuWitt/261T_aula07.git
